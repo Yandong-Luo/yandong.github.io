@@ -27,21 +27,21 @@ Before coming to GaTech, I was working at [Tusimple](https://en.wikipedia.org/wi
 Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang\\
 Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
 [paper](https://journals.sagepub.com/doi/10.1177/16878140211019540) -->
-<!-- <div style="display: flex; align-items: center;">
-  <img src="/assets/img/rnn.gif" alt="Description" width="200" height="150" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="/assets/img/arm.jpg" alt="Swarm Robot" height="200" width="200" style="margin-right: 15px;">
   <div>
-    <h2>Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum</h2>
-    <p>Yandong Luo, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
-    <p>Journal of Complexity, 19 May 2021, Dongguan University of Technology</p>
-    <p>[paper](https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421)</p>
+    <h4 style="margin-top: 0; margin-bottom: 10px;">Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer</h4>
+    <p style="margin: 5px 0;">Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang</p>
+    <p style="margin: 5px 0;">Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology</p>
+    <p style="margin: 5px 0;"><a href="https://journals.sagepub.com/doi/10.1177/16878140211019540">paper</a></p>
   </div>
-</div> -->
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="/assets/img/rnn.gif" alt="Swarm Robot" width="200" style="margin-right: 15px;">
+  <img src="/assets/img/rnn.gif" alt="Swarm Robot" height="200" width="200" style="margin-right: 15px;">
   <div>
-    <h2 style="margin-top: 0; margin-bottom: 10px;">Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum</h2>
-    <p style="margin: 5px 0;">Yandong Luo, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
+    <h4 style="margin-top: 0; margin-bottom: 10px;">Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum</h4>
+    <p style="margin: 5px 0;">**Yandong Luo**, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
     <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p>
     <p style="margin: 5px 0;"><a href="https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421">paper</a></p>
   </div>
