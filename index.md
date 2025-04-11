@@ -8,10 +8,22 @@ Hi! This is Yandong Luo, a master student in Computer Science at Georgia Institu
 
 Before coming to GaTech, I was working at Tusimple company for L2 and L4 trajectory planning and decision making of autonomous trucks operating in the bustling port of Shanghai, China. I obtained my master's degree at the University of Illinois at Urbana-Champaign, where I conducted research on perception and planning for autonomous vehicles under the supervision of Prof. Bob Norris. I completed my bachelor's degree in Mechanical Engieering at Dongguan University of Technology, where I was advised by Prof. Jianwen Guo. During my undergraduate period, I worked on multi-agent systems.
 
+
+
 ## Working Experience
-![Octocat](/assets/img/Tusimple_Cut_In.gif)
+![Octocat](/assets/img/TuSimple_Logo.jpg) Algorithm Engineer – Path Planning & Decision Making
+![Octocat](/assets/img/yelink.jpg) Autonomous Driving Engineer
+<!-- ![Octocat](/assets/img/Tusimple_Cut_In.gif)  -->
 
 ## Research Interest
+*   Robot Learning
+*   Autonomous Driving
+*   Robot Perception
+
+## Selected Research
+![Octocat](/assets/img/rnn.jpg) Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum.
+*Yandong Luo*, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan
+Journal of Complexity, 19 May 2021, Dongguan University of Technology
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
