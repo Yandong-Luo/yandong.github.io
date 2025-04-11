@@ -11,8 +11,10 @@ Before coming to GaTech, I was working at Tusimple company for L2 and L4 traject
 
 
 ## Working Experience
-![Octocat](/assets/img/TuSimple_Logo.jpg) Algorithm Engineer – Path Planning & Decision Making
-![Octocat](/assets/img/yelink.jpg) Autonomous Driving Engineer
+![Octocat](/assets/img/TuSimple_Logo.jpg) Tusimple Algorithm Engineer – Path Planning & Decision Making\\
+![Octocat](/assets/img/Tusimple_Cut_In.gif) L2 Lateral Trajectory Optimization \\
+![Octocat](/assets/img/game_theory.png) L4 Game Theory for Lane Change \\
+![Octocat](/assets/img/yelink.png) Autonomous Driving Engineer
 <!-- ![Octocat](/assets/img/Tusimple_Cut_In.gif)  -->
 
 ## Research Interest
@@ -21,10 +23,18 @@ Before coming to GaTech, I was working at Tusimple company for L2 and L4 traject
 *   Robot Perception
 
 ## Selected Research
-![Octocat](/assets/img/rnn.jpg) Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum.
-*Yandong Luo*, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan
-Journal of Complexity, 19 May 2021, Dongguan University of Technology
+![Octocat](/assets/img/arm.jpg) Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer\\
+**Yandong Luo**, Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang\\
+Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
+[paper](https://journals.sagepub.com/doi/10.1177/16878140211019540)
 
+![Octocat](/assets/img/rnn.gif) Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum\\
+**Yandong Luo**, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan\\
+Journal of Complexity, 19 May 2021, Dongguan University of Technology
+[paper](https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421)
+
+## Project
+<!-- ![Octocat](/assets/img/Tusimple_Cut_In.gif)  -->
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
