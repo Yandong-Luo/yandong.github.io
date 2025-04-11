@@ -28,11 +28,12 @@ Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui 
 Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
 [paper](https://journals.sagepub.com/doi/10.1177/16878140211019540) -->
 <div style="display: flex; align-items: center;">
-  <img src="/assets/img/arm.jpg" alt="Description" style="margin-right: 20px;">
+  <img src="/assets/img/rnn.gif" alt="Description" width="200" height="150" style="margin-right: 20px;">
   <div>
-    <h2>Swarm Robot Exploration Strategy</h2>
+    <h2>Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum</h2>
     <p>Yandong Luo, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
     <p>Journal of Complexity, 19 May 2021, Dongguan University of Technology</p>
+    <p>[paper](https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421)</p>
   </div>
 </div>
 
