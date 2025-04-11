@@ -6,7 +6,7 @@ layout: default
 
 Hi! This is Yandong Luo, a master student in Computer Science at Georgia Institute of Technology, where I'm advised by Prof. Zhao Ye. I'm broadly interested in Perception and Planning. My current research focuses on CUDA-based motion generation for Loco-manipulation.
 
-Before coming to GaTech, I was working at Tusimple company for L2 and L4 trajectory planning and decision making of autonomous trucks operating in the bustling port of Shanghai, China. I obtained my master's degree at the University of Illinois at Urbana-Champaign, where I conducted research on perception and planning for autonomous vehicles under the supervision of Prof. Bob Norris. I completed my bachelor's degree in Mechanical Engieering at Dongguan University of Technology, where I was advised by Prof. Jianwen Guo. During my undergraduate period, I worked on multi-agent systems.
+Before coming to GaTech, I was working at [Tusimple](https://en.wikipedia.org/wiki/TuSimple) company for L2 and L4 trajectory planning and decision making of autonomous trucks operating in the bustling port of Shanghai, China. I obtained my master's degree at the [University of Illinois at Urbana Champaign](https://illinois.edu/), where I conducted research on perception and planning for autonomous vehicles under the supervision of Prof. Bob Norris. I completed my bachelor's degree in Mechanical Engieering at Dongguan University of Technology, where I was advised by Prof. Jianwen Guo. During my undergraduate period, I worked on multi-agent systems.
 
 
 
@@ -24,7 +24,7 @@ Before coming to GaTech, I was working at Tusimple company for L2 and L4 traject
 
 ## Selected Research
 ![Octocat](/assets/img/arm.jpg) Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer\\
-**Yandong Luo**, Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang\\
+Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang\\
 Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
 [paper](https://journals.sagepub.com/doi/10.1177/16878140211019540)
 
