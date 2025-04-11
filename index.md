@@ -2,6 +2,14 @@
 layout: default
 ---
 
+## About me
+
+Hi! This is Yandong Luo, a master student in Computer Science at Georgia Institute of Technology, where I'm advised by Prof. Zhao Ye. I'm broadly interested in Perception and Planning. My current research focuses on CUDA-based motion generation for Loco-manipulation.
+
+Before coming to GaTech, I was working at Tusimple company for L2 and L4 trajectory planning and decision making of autonomous trucks operating in the bustling port of Shanghai, China. I obtained my master's degree at the University of Illinois at Urbana-Champaign, where I conducted research on perception and planning for autonomous vehicles under the supervision of Prof. Bob Norris. I completed my bachelor's degree in Mechanical Engieering at Dongguan University of Technology, where I was advised by Prof. Jianwen Guo. During my undergraduate period, I worked on multi-agent systems.
+
+## Research Interest
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
