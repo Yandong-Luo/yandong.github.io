@@ -23,10 +23,18 @@ Before coming to GaTech, I was working at [Tusimple](https://en.wikipedia.org/wi
 *   Robot Perception
 
 ## Selected Research
-![Octocat](/assets/img/arm.jpg) Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer\\
+<!-- ![Octocat](/assets/img/arm.jpg) Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer\\
 Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang\\
 Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
-[paper](https://journals.sagepub.com/doi/10.1177/16878140211019540)
+[paper](https://journals.sagepub.com/doi/10.1177/16878140211019540) -->
+<div style="display: flex; align-items: center;">
+  <img src="/assets/img/arm.jpg" alt="Description" style="margin-right: 20px;">
+  <div>
+    <h2>Swarm Robot Exploration Strategy</h2>
+    <p>Yandong Luo, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
+    <p>Journal of Complexity, 19 May 2021, Dongguan University of Technology</p>
+  </div>
+</div>
 
 ![Octocat](/assets/img/rnn.gif) Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum\\
 **Yandong Luo**, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan\\
