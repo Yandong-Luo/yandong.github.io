@@ -12,7 +12,7 @@ Before coming to GaTech, I was working at [Tusimple](https://en.wikipedia.org/wi
 
 ## Working Experience
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="/assets/img/TuSimple_Logo.jpg" alt="Tusimple" height="150" width="200" style="margin-right: 15px;">
+  <img src="/assets/img/TuSimple_Logo.jpg" alt="Tusimple" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Tusimple Algorithm Engineer – Path Planning & Decision Making</h4>
     <p style="margin: 5px 0;">L2 Lateral Trajectory Optimization</p>
@@ -22,7 +22,7 @@ Before coming to GaTech, I was working at [Tusimple](https://en.wikipedia.org/wi
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="/assets/img/yelink_logo.png" alt="Yelink" height="150" width="200" style="margin-right: 15px;">
+  <img src="/assets/img/yelink_logo.png" alt="Yelink"  width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Yelink Autonomous Vehicle Engineer</h4>
     <p style="margin: 5px 0;">Shenzhen Subway Autonomous Braking System</p>
