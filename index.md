@@ -31,10 +31,10 @@ Before coming to GaTech, I was working at [Tusimple](https://en.wikipedia.org/wi
   </div>
 </div>
 
-![Octocat](/assets/img/TuSimple_Logo.jpg) Tusimple Algorithm Engineer – Path Planning & Decision Making\\
+<!-- ![Octocat](/assets/img/TuSimple_Logo.jpg) Tusimple Algorithm Engineer – Path Planning & Decision Making\\
 ![Octocat](/assets/img/Tusimple_Cut_In.gif) L2 Lateral Trajectory Optimization \\
 ![Octocat](/assets/img/game_theory.png) L4 Game Theory for Lane Change \\
-![Octocat](/assets/img/yelink.png) Autonomous Driving Engineer
+![Octocat](/assets/img/yelink.png) Autonomous Driving Engineer -->
 <!-- ![Octocat](/assets/img/Tusimple_Cut_In.gif)  -->
 
 ## Research Interest
