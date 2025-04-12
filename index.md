@@ -48,7 +48,7 @@ Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui 
 Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
 [paper](https://journals.sagepub.com/doi/10.1177/16878140211019540) -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="/assets/img/arm.jpg" alt="arm" height="200" width="200" style="margin-right: 15px;">
+  <img src="/assets/img/arm.jpg" alt="arm" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer</h4>
     <p style="margin: 5px 0;">Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, <strong>Yandong Luo</strong>, Jiapeng Wu, and Shaohui Zhang</p>
@@ -58,7 +58,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="/assets/img/rnn.gif" alt="Swarm Robot" height="150" width="200" style="margin-right: 15px;">
+  <img src="/assets/img/rnn.gif" alt="Swarm Robot" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum</h4>
     <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
@@ -66,6 +66,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
     <p style="margin: 5px 0;"><a href="https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421">paper</a></p>
   </div>
 </div>
+\\
 
 ## Project
 <!-- ![Octocat](/assets/img/arm.jpg) Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer\\
@@ -76,19 +77,29 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
   <img src="/assets/img/footstep.png" alt="footstep" height="200" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">CUDA Parallel Acceleration of Footstep Planner and Controller</h4>
-    <p style="margin: 5px 0;">Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, <strong>Yandong Luo</strong>, Jiapeng Wu, and Shaohui Zhang</p>
-    <p style="margin: 5px 0;">Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology</p>
-    <p style="margin: 5px 0;"><a href="https://journals.sagepub.com/doi/10.1177/16878140211019540">paper</a></p>
+    <!-- <p style="margin: 5px 0;">Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, <strong>Yandong Luo</strong>, Jiapeng Wu, and Shaohui Zhang</p>
+    <p style="margin: 5px 0;">Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology</p> -->
+    <p style="margin: 5px 0;"><a href="https://journals.sagepub.com/doi/10.1177/16878140211019540">[Github repo]</a></p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="/assets/img/rnn.gif" alt="Swarm Robot" height="150" width="200" style="margin-right: 15px;">
+  <img src="/assets/img/rnn.gif" alt="3d detection" height="150" width="200" style="margin-right: 15px;">
   <div>
-    <h4 style="margin-top: 0; margin-bottom: 10px;">Swarm Robot Exploration Strategy for Path Formation Tasks Inspired by Physarum polycephalum</h4>
-    <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
-    <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p>
-    <p style="margin: 5px 0;"><a href="https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421">paper</a></p>
+    <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
+    <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
+    <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
+    <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a> <a href="https://youtu.be/gZP0zZ-1aUI">[Vehicle Test]</a><a href="https://youtu.be/2geS7mITpOo">[Tracking Test]</a><a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="/assets/img/rnn.gif" alt="Parallel Parking" height="150" width="200" style="margin-right: 15px;">
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 10px;">Path Planning of Reverse Parallel Parking</h4>
+    <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
+    <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
+    <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/parallel_parking">[Github repo]</a> <a href="https://youtu.be/GD1N-XIS-Nw">[Vehicle Test]</a><a href="https://youtu.be/otTrGEX5Vzc">[Simulation Test]</a></p>
   </div>
 </div>
 
