@@ -4,4 +4,4 @@ description: MSCS Student, Georgia Institute of Technology
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-baseurl: ""
+# baseurl: ""
