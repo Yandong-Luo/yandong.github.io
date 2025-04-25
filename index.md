@@ -68,7 +68,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 
-## Project
+## Selected Project
 <!-- ![Octocat](/assets/img/arm.jpg) Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer\\
 Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang\\
 Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
