@@ -66,7 +66,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
     <p style="margin: 5px 0;"><a href="https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421">paper</a></p>
   </div>
 </div>
-\\
+
 
 ## Project
 <!-- ![Octocat](/assets/img/arm.jpg) Fault diagnosis of industrial robot reducer by an extreme learning machine with a level-based learning swarm optimizer\\
@@ -84,12 +84,23 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="./assets/img/tracker.gif" alt="3d detection" height="150" width="200" style="margin-right: 15px;">
+  <img src="./assets/img/tracker.gif" alt="3d detection" height="100" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
     <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
     <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
     <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a> <a href="https://youtu.be/gZP0zZ-1aUI">[Vehicle Test]</a><a href="https://youtu.be/2geS7mITpOo">[Tracking Test]</a><a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="./assets/img/game_theory.png" alt="game theory" height="100" width="200" style="margin-right: 15px;">
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 10px;">Nash Equilibrium-Based Planning for Hierarchical Lane Changing</h4>
+    <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
+     -->
+    <!-- <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a> <a href="https://youtu.be/gZP0zZ-1aUI">[Vehicle Test]</a><a href="https://youtu.be/2geS7mITpOo">[Tracking Test]</a><a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a></p> -->
+    <p style="margin: 5px 0;">By modeling lane-changing as a hierarchical game between trajectory and behavior layers, and considering both safety and comfort in the utility function, the system solves for the Nash equilibrium to find the optimal lane-changing strategy.</p>
   </div>
 </div>
 
@@ -108,8 +119,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 Journal of Complexity, 19 May 2021, Dongguan University of Technology
 [paper](https://onlinelibrary.wiley.com/doi/10.1155/2021/6698421)
 
-## Project
-<!-- ![Octocat](/assets/img/Tusimple_Cut_In.gif)  -->
+<!-- ## Project
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -131,7 +141,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ### Header 3
 
 ```js
-// Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
@@ -139,7 +148,6 @@ var fun = function lang(l) {
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
@@ -228,4 +236,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
