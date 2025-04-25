@@ -95,17 +95,17 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
   </div>
 </div>
 
-<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="./assets/img/tracker.gif" alt="3d detection" height="100" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
-    <p style="margin: 5px 0;">Developed a 3D object detection and tracking pipeline for autonomous vehicles using LiDAR point clouds, with end-to-end training and real-world deployment on GEM vehicles. Integrated 3D IoU-based association, Hungarian matching, and Kalman filtering for robust multi-object tracking.</p>
+    <p style="margin: 5px 0;">Developed a 3D object detection and tracking pipeline for autonomous vehicles. Integrated 3D IoU-based association, Hungarian matching, and Kalman filtering for robust multi-object tracking.</p>
     <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a> <a href="https://youtu.be/gZP0zZ-1aUI">[Vehicle Test]</a><a href="https://youtu.be/2geS7mITpOo">[Tracking Test]</a><a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a></p>
   </div>
-</div> -->
+</div>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <div style="display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+<!-- <div style="display: flex; margin-bottom: 20px;">
+  <div style="display: flex; align-items: center; justify-content: center; height: 100px; min-width: 200px; margin-right: 15px;">
     <img src="./assets/img/tracker.gif" alt="3d detection" height="100" width="200">
   </div>
   <div>
@@ -120,7 +120,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
       <a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a>
     </p>
   </div>
-</div>
+</div> -->
 
 
 
