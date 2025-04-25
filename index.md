@@ -105,8 +105,8 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div> -->
 
 <div style="display: flex; margin-bottom: 15px;">
-  <div style="display: flex; align-items: center; margin-right: 15px;">
-    <img src="./assets/img/tracker.gif" alt="3d detection" height="100" width="200">
+  <div style="display: flex; align-items: center; justify-content: center; height: 100px; min-width: 200px; margin-right: 15px;">
+    <img src="./assets/img/tracker.gif" alt="3d detection" style="height: 100px; width: auto;">
   </div>
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
@@ -121,6 +121,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
     </p>
   </div>
 </div>
+
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
