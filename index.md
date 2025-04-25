@@ -84,7 +84,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="./assets/img/rnn.gif" alt="3d detection" height="150" width="200" style="margin-right: 15px;">
+  <img src="./assets/img/tracker.gif" alt="3d detection" height="150" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
     <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
@@ -94,12 +94,12 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="./assets/img/rnn.gif" alt="Parallel Parking" height="150" width="200" style="margin-right: 15px;">
+  <img src="./assets/img/parallel_parking.gif" alt="Parallel Parking" height="150" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Path Planning of Reverse Parallel Parking</h4>
     <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
     <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
-    <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/parallel_parking">[Github repo]</a> <a href="https://youtu.be/GD1N-XIS-Nw">[Vehicle Test]</a><a href="https://youtu.be/otTrGEX5Vzc">[Simulation Test]</a></p>
+    <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/parallel_parking">[Github repo]</a> <a href="https://youtu.be/1gjOYHwKNWc">[Night Test]</a> <a href="https://youtu.be/GD1N-XIS-Nw">[Vehicle Test]</a><a href="https://youtu.be/AjWVrfCakII">[SLAM Test]</a><a href="https://youtu.be/otTrGEX5Vzc">[Simulation Test]</a></p>
   </div>
 </div>
 
