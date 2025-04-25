@@ -79,17 +79,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
     <h4 style="margin-top: 0; margin-bottom: 10px;">CUDA Parallel Acceleration of Footstep Planner and Controller</h4>
     <!-- <p style="margin: 5px 0;">Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, <strong>Yandong Luo</strong>, Jiapeng Wu, and Shaohui Zhang</p>
     <p style="margin: 5px 0;">Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology</p> -->
-    <p style="margin: 5px 0;"><a href="https://journals.sagepub.com/doi/10.1177/16878140211019540">[Github repo]</a></p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="./assets/img/tracker.gif" alt="3d detection" height="100" width="200" style="margin-right: 15px;">
-  <div>
-    <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
-    <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
-    <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
-    <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a> <a href="https://youtu.be/gZP0zZ-1aUI">[Vehicle Test]</a><a href="https://youtu.be/2geS7mITpOo">[Tracking Test]</a><a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a></p>
+    <p style="margin: 5px 0;">Implemented a CUDA-parallel Differential Evolution algorithm to accelerate footstep planning, reducing solve time from 70s (Gurobi) to 0.66s by reparameterizing Bezier-based CoM trajectories and optimizing control inputs.</p>
   </div>
 </div>
 
@@ -105,11 +95,23 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="./assets/img/tracker.gif" alt="3d detection" height="100" width="200" style="margin-right: 15px;">
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
+    <p style="margin: 5px 0;">Developed a 3D object detection and tracking pipeline for autonomous vehicles using LiDAR point clouds, with end-to-end training and real-world deployment on GEM vehicles. Integrated 3D IoU-based association, Hungarian matching, and Kalman filtering for robust multi-object tracking.</p>
+    <!-- <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
+    <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a> <a href="https://youtu.be/gZP0zZ-1aUI">[Vehicle Test]</a><a href="https://youtu.be/2geS7mITpOo">[Tracking Test]</a><a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a></p>
+  </div>
+</div>
+
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="./assets/img/parallel_parking.gif" alt="Parallel Parking" height="150" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Path Planning of Reverse Parallel Parking</h4>
-    <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
-    <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
+    <p style="margin: 5px 0;">Developed a reverse parallel parking planner using hybrid A*, vehicle kinematic constraints, and curvature-based path smoothing.</p>
+    <!-- <p style="margin: 5px 0;">Journal of Complexity, 19 May 2021, Dongguan University of Technology</p> -->
     <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/parallel_parking">[Github repo]</a> <a href="https://youtu.be/1gjOYHwKNWc">[Night Test]</a> <a href="https://youtu.be/GD1N-XIS-Nw">[Vehicle Test]</a><a href="https://youtu.be/AjWVrfCakII">[SLAM Test]</a><a href="https://youtu.be/otTrGEX5Vzc">[Simulation Test]</a></p>
   </div>
 </div>
