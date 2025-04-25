@@ -94,7 +94,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="./assets/img/lanechange.gif" alt="game theory" height="150" width="200" style="margin-right: 15px;">
+  <img src="./assets/img/lanechange.gif" alt="game theory" height="200" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Nash Equilibrium-Based Planning for Hierarchical Lane Changing</h4>
     <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
