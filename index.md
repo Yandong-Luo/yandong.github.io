@@ -73,7 +73,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 Jianwen Guo, Xiaoyan Li, Zhenpeng Lao, **Yandong Luo**, Jiapeng Wu, and Shaohui Zhang\\
 Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University of Technology
 [paper](https://journals.sagepub.com/doi/10.1177/16878140211019540) -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="./assets/img/footstep.png" alt="footstep" height="200" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">CUDA Parallel Acceleration of Footstep Planner and Controller</h4>
@@ -83,7 +83,7 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="./assets/img/lanechange.gif" alt="game theory" height="150" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Nash Equilibrium-Based Planning for Hierarchical Lane Changing</h4>
@@ -104,14 +104,14 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
   </div>
 </div> -->
 
-<div style="display: flex; margin-bottom: 15px;">
-  <div style="display: flex; align-items: center; justify-content: center; height: 100px; min-width: 200px; margin-right: 15px;">
+<div style="display: flex; margin-bottom: 20px;">
+  <div style="display: flex; align-items: center; justify-content: center; margin-right: 15px;">
     <img src="./assets/img/tracker.gif" alt="3d detection" height="100" width="200">
   </div>
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">3D Object Detection and Tracking for Autonomous Vehicle</h4>
     <p style="margin: 5px 0;">
-      Developed a 3D object detection and tracking pipeline for autonomous vehicles using LiDAR point clouds, with end-to-end training and real-world deployment on GEM vehicles. Integrated 3D IoU-based association, Hungarian matching, and Kalman filtering for robust multi-object tracking.
+      Developed a 3D object detection and tracking pipeline for autonomous vehicles. Integrated 3D IoU-based association, Hungarian matching, and Kalman filtering for robust multi-object tracking.
     </p>
     <p style="margin: 5px 0;">
       <a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a>
