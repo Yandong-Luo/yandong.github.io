@@ -84,10 +84,10 @@ Journal of Advances in Mechanical Engineering, 19 May 2021, Dongguan University 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./assets/img/highway_trajectory_visualization.gif" alt="trajectory_prediction" height="150" width="200" style="margin-right: 15px;">
+  <img src="./assets/img/highway_trajectory_visualization-ezgif.com-crop.gif" alt="trajectory_prediction" height="150" width="200" style="margin-right: 15px;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 10px;">Interaction-Aware LSTM-Based Trajectory Prediction Framework for Ego Vehicle Path Forecasting</h4>
-    <p style="margin: 5px 0;">This project presents an LSTM-based trajectory prediction framework that forecasts the future path of an ego vehicle by learning from both historical motion data and the spatiotemporal interactions with surrounding vehicles. It encodes structured past trajectories of the ego and nearby vehicles using a grid-based representation, and learns to predict future positions using supervised learning with a masked loss function to handle variable sequence lengths.</p>
+    <p style="margin: 5px 0;">Predict the future trajectory of an ego vehicle by leveraging its past motion and interactions with nearby vehicles using a self-attention LSTM. With grid-based encoding and masked loss, the model produces accurate, socially-aware predictions in dynamic traffic environments.</p>
     <!-- <p style="margin: 5px 0;"><strong>Yandong Luo</strong>, Jianwen Guo, Zhenpeng Lao, Shaohui Zhang, Xiaohui Yan</p>
      -->
     <!-- <p style="margin: 5px 0;"><a href="https://github.com/Yandong-Luo/Reimplement-PointPillar">[Github repo]</a> <a href="https://youtu.be/gZP0zZ-1aUI">[Vehicle Test]</a><a href="https://youtu.be/2geS7mITpOo">[Tracking Test]</a><a href="https://youtu.be/5wYhJoQx21w">[KITTI Test]</a></p> -->
